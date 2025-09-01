@@ -17,6 +17,7 @@ export default function App() {
 
   const [number1,setNumber1] = useState(0)
   const [number2,setNumber2] = useState(0)
+  const[answer,setAnswer] = useState("")
 
 
   
